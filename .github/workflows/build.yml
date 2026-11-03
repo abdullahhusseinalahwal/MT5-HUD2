@@ -1,4 +1,4 @@
-name: Build MT5 HUD APK
+name: Build MT5 HUD2 APK
 
 on: [push, workflow_dispatch]
 
